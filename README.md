@@ -1,1 +1,1 @@
-# Hika's osu!mania skins collection
+# hika's osu!mania skins collection
