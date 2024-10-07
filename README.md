@@ -1,2 +1,1 @@
-# osu-skins
-Hika's osu!mania skins repo.
+# Hika's osu!mania skins collection
